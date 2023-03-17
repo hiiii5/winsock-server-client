@@ -1,4 +1,4 @@
-To build the cmake, run build, then open the build folder.
+To build the cmake, run build.cmd, then open the build folder.
 
 All source is inside the source folder.
 When running, alongside the executable (Debug), a folder called data is made.
